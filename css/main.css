@@ -36,7 +36,7 @@ Domain Path:      /languages/
    ========================================================================== */
 body {
   font-family: 'Roboto', sans-serif;
-  color: #a0a6ad;
+  color: #7d838a;
   font-size: 14px;
   font-weight: 400;
   background: #fff;
@@ -49,7 +49,7 @@ html {
 
 p {
   font-size: 14px;
-  color: #a0a6ad;
+  color: #7d838a;
   line-height: 26px;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 0;
@@ -580,7 +580,6 @@ button:focus {
 .navbar-brand {
   color: #fff;
 }
-
 .navbar-expand-md .navbar-nav .nav-link:focus,
 .navbar-expand-md .navbar-nav .nav-link:hover,
 .navbar-expand-md .navbar-nav .nav-link:hover:before {
@@ -1020,7 +1019,7 @@ button:focus {
 
 #features .nav .nav-item .nav-link {
   font-size: 20px;
-  color: #a0a6ad;
+  color: #7d838a;
   padding: 30px 0;
   line-height: 1;
   -webkit-transition: color 0.2s;
@@ -1384,7 +1383,7 @@ button:focus {
 }
 
 .testimonial-item .content-inner span {
-  color: #a0a6ad;
+  color: #7d838a;
 }
 
 .testimonial-item .content-inner .author-info {
@@ -1880,7 +1879,7 @@ button:focus {
 }
 
 #blog .author .name a {
-  color: #a0a6ad;
+  color: #7d838a;
   font-size: 14px;
   font-weight: 400;
 }
@@ -2349,4 +2348,8 @@ footer .menu li a:hover {
   font-weight: 700;
   margin-bottom: 20px;
   font-size: 14px;
+}
+
+#t {
+  color: #fff !important;
 }
