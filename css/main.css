@@ -292,7 +292,7 @@ button:focus {
 .btn-subtitle {
   color: #191c1e;
   font-family: 'Poppins', sans-serif;
-  background: #dbecff;
+  background: #012035;
   text-align: center;
   border-radius: 30px;
   padding: 6px 30px;
@@ -361,11 +361,11 @@ button:focus {
   color: #fff;
 }
 
-.facebook a {
+.telegram a {
   color: #4867AA;
 }
 
-.facebook a:hover {
+.telegram a:hover {
   background: #4867AA;
 }
 
@@ -1320,7 +1320,7 @@ button:focus {
   transition: 0.5s;
 }
 
-.single-team .social-list .facebook a:hover {
+.single-team .social-list .telegram a:hover {
   background: #4867aa;
   color: #fff;
 }
@@ -2116,7 +2116,7 @@ textarea {
   transition: all .4s ease-in-out;
 }
 
-.contact-social li .facebook:hover {
+.contact-social li .telegram:hover {
   color: #3b5998;
 }
 
@@ -2147,7 +2147,6 @@ footer .footer-Content {
   background-image: -moz-linear-gradient(0deg, #012035 0%, #073A55 100%);
   background-image: -webkit-linear-gradient(0deg, #012035 0%, #073A55 100%);
   background-image: -ms-linear-gradient(0deg, #012035 0%, #073A55 100%);
-  padding: 60px 0 0px;
   color: #546E7A;
 }
 
@@ -2202,7 +2201,7 @@ footer .menu li a:hover {
   transition: all .4s ease-in-out;
 }
 
-.footer-social li .facebook:hover {
+.footer-social li .telegram:hover {
   color: #3b5998;
 }
 
@@ -2341,8 +2340,8 @@ footer .menu li a:hover {
 }
 
 .btn-subtitle {
-  color: #191c1e;
-  background: #dbecff;
+  color: white;
+  background: #012035;
   text-align: center;
   border-radius: 30px;
   padding: 6px 30px;

@@ -360,10 +360,10 @@
 .lni-eye:before {
   content: "\e96f";
 }
-.lni-facebook-filled:before {
+.lni-telegram-filled:before {
   content: "\e970";
 }
-.lni-facebook:before {
+.lni-telegram:before {
   content: "\e971";
 }
 .lni-files:before {
