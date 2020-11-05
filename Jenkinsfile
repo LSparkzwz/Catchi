@@ -29,7 +29,7 @@ pipeline {
               transfers: [
                 sshTransfer(
                   cleanRemote: true,
-                  remoteDirectory: "catch.tech",
+                  remoteDirectory: "catchi.tech",
                   sourceFiles: "output/",
                   removePrefix: "output/"
                 )
