@@ -1,0 +1,20 @@
+{
+  "name": "Catchi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p output && rm -rf output/* && cp -r index.html css/ img/ js/ fonts/ output/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LSparkzwz/Catchi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LSparkzwz/Catchi/issues"
+  },
+  "homepage": "https://github.com/LSparkzwz/Catchi#readme"
+}
